@@ -1,10 +1,5 @@
 # Password Generator
 
-[![GitHub license](https://img.shields.io/github/license/ramazancetinkaya/password-generator.svg)](LICENSE)
-[![GitHub issues](https://img.shields.io/github/issues/ramazancetinkaya/password-generator)](https://github.com/ramazancetinkaya/password-generator/issues)
-[![GitHub stars](https://img.shields.io/github/stars/ramazancetinkaya/password-generator)](https://github.com/ramazancetinkaya/password-generator/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/ramazancetinkaya/password-generator)](https://github.com/ramazancetinkaya/password-generator/network)
-
 A modern, secure, and feature-rich password generator built with HTML, CSS, and vanilla JavaScript. This application helps users create strong passwords, PINs, and passphrases with various security options.
 
 ## Features
@@ -73,11 +68,6 @@ A modern, secure, and feature-rich password generator built with HTML, CSS, and 
   <p><em>Passphrase Generation Tab</em></p>
 </div>
 
-## Demo
-
-Experience the application instantly via GitHub Pages:
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-blue?style=for-the-badge)](https://ramazancetinkaya.github.io/password-generator/)
 
 ## Technology Stack
 
@@ -87,14 +77,6 @@ Experience the application instantly via GitHub Pages:
 - Font Awesome for icons
 - No external libraries or frameworks
 
-## Security Information
-
-This application generates passwords using cryptographically secure methods:
-- Secure random algorithm uses `window.crypto.getRandomValues()`
-- Entropy calculations based on character set and length
-- Crack time estimates considering modern computing capabilities (10 trillion guesses/second)
-
-The application runs entirely in the browser with no server communication. All processing happens locally, ensuring your passwords never leave your device.
 
 ## Installation
 
@@ -151,21 +133,5 @@ Tested and working on:
 - Opera (latest)
 - Mobile browsers
 
-## Contributing
 
-Contributions are welcome! Please feel free to submit a pull request or open an issue for any enhancements or bug fixes.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
-## Author
-
-Designed and developed by **Ramazan Çetinkaya**.
-
-## Contact
-
-For any inquiries, please contact:
-
-- GitHub: [ramazancetinkaya](https://github.com/ramazancetinkaya)
-- Email: [ramazancetinkayasoftworks@protonmail.com](mailto:ramazancetinkayasoftworks@protonmail.com)
